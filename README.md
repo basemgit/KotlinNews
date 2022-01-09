@@ -7,5 +7,5 @@ Data Binding
 Retrofit  
 Room  
 Hilt  
-Coil
+Coil  
 Ui Testing  
