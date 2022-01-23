@@ -4,7 +4,9 @@ Tech stack :
 Architecture components  
 Navigation components  
 Data Binding  
-Retrofit  
+Retrofit 
+coroutine  
+flow  
 Room  
 Hilt  
 Coil  
